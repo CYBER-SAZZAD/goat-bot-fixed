@@ -5,7 +5,7 @@ const ADMIN_UID = "61578415994269";
 
 module.exports = {
   config: {
-    name: "war2",
+    name: "war",
     version: "1.0",
     author: "Amit Max ⚡",
     description: "Tag someone to war-mode and insult them automatically when they chat",
